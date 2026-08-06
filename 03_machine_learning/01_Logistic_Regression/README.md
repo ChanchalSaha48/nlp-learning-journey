@@ -21,21 +21,21 @@ In this experiment, I learned about:
 
 The basic learning process of the model is:
 
-     Input
-       |
-Linear Function ( wx+b )
-       |
-    Sigmoid
-       |
-  Probability
-       |
-Loss Calculation
-       |
-Gradient Calculation
-       |
-Weight & Bias Update
-       |
-    Repeat
+                       Input
+                         |
+                Linear Function ( wx+b )
+                         |
+                      Sigmoid
+                         |
+                    Probability
+                         |
+                 Loss Calculation
+                         |
+                Gradient Calculation
+                         |
+                 Weight & Bias Update
+                         |
+                      Repeat
 
 
 ## Dataset
