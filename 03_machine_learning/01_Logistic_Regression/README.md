@@ -37,7 +37,7 @@ The basic learning process of the model is:
                          |
                       Repeat
 
-                      ```mermaid
+```mermaid
 flowchart TD
     A[Input] --> B[Linear Function: wx + b]
     B --> C[Sigmoid]
