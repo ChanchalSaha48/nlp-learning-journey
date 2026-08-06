@@ -37,6 +37,16 @@ The basic learning process of the model is:
                          |
                       Repeat
 
+                      ```mermaid
+flowchart TD
+    A[Input] --> B[Linear Function: wx + b]
+    B --> C[Sigmoid]
+    C --> D[Probability]
+    D --> E[Loss Calculation]
+    E --> F[Gradient Calculation]
+    F --> G[Update Weight & Bias]
+    G --> B
+
 
 ## Dataset
 
