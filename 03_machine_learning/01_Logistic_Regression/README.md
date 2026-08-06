@@ -20,7 +20,7 @@ In this experiment, I learned about:
 ## Learning Process
 
 The basic learning process of the model is:
-  '''text
+                       '''text
                        Input
                          |
                 Linear Function ( wx+b )
