@@ -65,8 +65,8 @@ The best-performing configuration was:
 
 ## Final Performance
 
-Metric                        Score
-Accuracy                      90.77%
-Precision                     90.10%
-Recall                        91.60%
-F1-Score                      90.85%
+|    Metric      |       Score    |
+|   Accuracy     |      90.77%    |
+|  Precision     |      90.10%    |
+|    Recall      |      91.60%    |
+|   F1-Score     |      90.85%    |
