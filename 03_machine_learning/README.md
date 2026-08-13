@@ -74,8 +74,20 @@ N-gram            : Unigram + Bigram
 ### Best Result
 
 |    Metric     |      Score      |
-|   Accuracy   :|      90.60%    :|
-|   Precision   |    
+|     :--       |  :--            |
+|   Accuracy    |      90.60%     |
+|   Precision   |                 |
 
 
 ##2. Naive Bayes 
+
+Naive Bayes was implemented to understand probabilistic text classification.
+
+The project also explored the basic idea of Baye's theorem and how word probabilities can be used for sentiment classification.
+
+## N-gram Experiment
+
+|         N-gram          |  Accuracy    |   Precision    |    Recall     | F1-Score  |
+|         Unigram         | 
+
+
